@@ -24,3 +24,14 @@ Stílus nyelvek:
 * A rendszer nem használ semmilyen adatbázist.
 * Javascript nyelvet használunk a fejlesztésre Vue.js keretrendszerben
 * Fejlesztői környezetünk a Visual Studio Code 
+
+
+## Telepítési terv
+
+Nagyon egyszerűen elindíthatjuk a webes alkalmazást, csupán csak arra van szükségünk, hogy a shop.html file-t átmásoljuk telefonunkra, akár adatkábellel, akár ha megosztjuk magunkkal messenger, discord vagy egyéb platofrmokon.
+
+
+
+
+
+
