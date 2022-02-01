@@ -16,3 +16,11 @@ Leíró nyelvek:
 Stílus nyelvek:
 * CSS
 
+## Architektúra terv
+
+1. Frontend:
+* HTML és CSS leíró/stílusnyelven készül a design BOOTSRAP segítségével
+2. Backend:
+* A rendszer nem használ semmilyen adatbázist.
+* Javascript nyelvet használunk a fejlesztésre Vue.js keretrendszerben
+* Fejlesztői környezetünk a Visual Studio Code 
