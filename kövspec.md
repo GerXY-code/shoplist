@@ -1,0 +1,1 @@
+## Minden amit tárgyaltunk a funkspec-ben, az ide is érvényes
